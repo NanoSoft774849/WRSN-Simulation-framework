@@ -1,0 +1,161 @@
+S_1,int:60.4639104167367sec
+S_2,int:60.6897889498939sec
+S_3,int:61.0106889617521sec
+S_4,int:61.4592778599264sec
+S_5,int:62.0762404385021sec
+S_6,int:62.9109616145139sec
+S_7,int:64.0217446521349sec
+S_8,int:65.4753475133987sec
+S_9,int:67.3456133581118sec
+S_10,int:69.7109925969566sec
+S_11,int:72.6508108406373sec
+S_12,int:76.2402339883935sec
+S_13,int:80.5440178431778sec
+S_14,int:85.6092975468388sec
+S_15,int:91.4578567014916sec
+S_16,int:98.0784949530019sec
+S_17,int:105.42025840041sec
+S_18,int:113.387379944597sec
+S_19,int:121.836769959673sec
+S_20,int:130.578783028427sec
+S_21,int:139.381758677925sec
+S_22,int:147.980504537432sec
+MC_1,int:156.088488350017sec
+S_23,int:163.413075770059sec
+S_24,int:169.672749323877sec
+S_25,int:174.614928335514sec
+S_26,int:178.032831304695sec
+S_27,int:179.779816575593sec
+S_28,int:179.779816575593sec
+S_29,int:178.032831304695sec
+BS_1,int:174.614928335514sec
+MC_2,int:169.672749323877sec
+S_30,int:163.413075770059sec
+S_31,int:156.088488350017sec
+S_32,int:147.980504537432sec
+MC_3,int:139.381758677925sec
+MC_4,int:130.578783028427sec
+S_33,int:121.836769959673sec
+S_34,int:113.387379944597sec
+S_35,int:105.42025840041sec
+S_36,int:98.0784949530019sec
+S_37,int:91.4578567014916sec
+S_38,int:85.6092975468388sec
+S_39,int:80.5440178431778sec
+S_40,int:76.2402339883935sec
+S_41,int:72.6508108406373sec
+S_42,int:69.7109925969566sec
+S_43,int:67.3456133581118sec
+S_44,int:65.4753475133987sec
+S_45,int:64.0217446521349sec
+S_46,int:62.9109616145139sec
+S_47,int:62.0762404385021sec
+S_48,int:61.4592778599264sec
+S_49,int:61.0106889617521sec
+S_50,int:60.6897889498939sec
+S_7 is connected to S_1 on port 5481
+S_7 is connected to S_2 on port 5482
+S_8 is connected to S_3 on port 5483
+S_9 is connected to S_4 on port 5484
+S_10 is connected to S_5 on port 5485
+S_7 is connected to S_6 on port 5486
+S_14 is connected to S_7 on port 5487
+S_14 is connected to S_8 on port 5491
+S_15 is connected to S_9 on port 5493
+S_16 is connected to S_10 on port 5495
+S_10 is connected to S_11 on port 5498
+S_13 is connected to S_12 on port 5499
+S_14 is connected to S_13 on port 5500
+S_22 is connected to S_14 on port 5502
+S_22 is connected to S_15 on port 5506
+MC_1 is connected to S_16 on port 5508
+S_16 is connected to S_17 on port 5511
+S_17 is connected to S_18 on port 5513
+S_20 is connected to S_19 on port 5514
+S_21 is connected to S_20 on port 5516
+S_22 is connected to S_21 on port 5518
+BS_1 is connected to S_22 on port 5520
+BS_1 is connected to MC_1 on port 5524
+MC_1 is connected to S_23 on port 5527
+S_23 is connected to S_24 on port 5529
+S_24 is connected to S_25 on port 5531
+S_27 is connected to S_26 on port 5532
+S_28 is connected to S_27 on port 5533
+S_29 is connected to S_28 on port 5536
+BS_1 is connected to S_29 on port 5539
+S_22 is connected to BS_1 on port 5542
+BS_1 is connected to MC_2 on port 5548
+MC_2 is connected to S_30 on port 5551
+S_30 is connected to S_31 on port 5554
+S_31 is connected to S_32 on port 5557
+S_27 is connected to MC_3 on port 5558
+S_28 is connected to MC_4 on port 5559
+S_29 is connected to S_33 on port 5561
+BS_1 is connected to S_34 on port 5563
+BS_1 is connected to S_35 on port 5566
+MC_2 is connected to S_36 on port 5568
+S_30 is connected to S_37 on port 5570
+S_31 is connected to S_38 on port 5572
+MC_4 is connected to S_39 on port 5573
+S_33 is connected to S_40 on port 5574
+S_34 is connected to S_41 on port 5576
+S_34 is connected to S_42 on port 5579
+S_35 is connected to S_43 on port 5581
+S_36 is connected to S_44 on port 5583
+S_37 is connected to S_45 on port 5584
+S_40 is connected to S_46 on port 5585
+S_41 is connected to S_47 on port 5586
+S_41 is connected to S_48 on port 5587
+S_42 is connected to S_49 on port 5588
+S_43 is connected to S_50 on port 5589
+S_1 is connected to S_7 on port 5488
+S_3 is connected to S_8 on port 5492
+S_4 is connected to S_9 on port 5494
+S_5 is connected to S_10 on port 5496
+S_12 is connected to S_13 on port 5501
+S_7 is connected to S_14 on port 5503
+S_9 is connected to S_15 on port 5507
+S_10 is connected to S_16 on port 5509
+S_18 is connected to S_17 on port 5512
+S_19 is connected to S_20 on port 5517
+S_20 is connected to S_21 on port 5519
+S_14 is connected to S_22 on port 5521
+S_16 is connected to MC_1 on port 5525
+S_25 is connected to S_24 on port 5530
+S_26 is connected to S_27 on port 5534
+S_27 is connected to S_28 on port 5537
+S_28 is connected to S_29 on port 5540
+MC_1 is connected to BS_1 on port 5543
+S_30 is connected to MC_2 on port 5549
+S_31 is connected to S_30 on port 5552
+S_32 is connected to S_31 on port 5555
+S_39 is connected to MC_4 on port 5560
+S_40 is connected to S_33 on port 5562
+S_41 is connected to S_34 on port 5564
+S_24 is connected to S_23 on port 5528
+S_44 is connected to S_36 on port 5569
+S_45 is connected to S_37 on port 5571
+S_46 is connected to S_40 on port 5575
+S_47 is connected to S_41 on port 5577
+S_49 is connected to S_42 on port 5580
+S_50 is connected to S_43 on port 5582
+S_2 is connected to S_7 on port 5489
+S_11 is connected to S_10 on port 5497
+S_8 is connected to S_14 on port 5504
+S_17 is connected to S_16 on port 5510
+S_43 is connected to S_35 on port 5567
+S_15 is connected to S_22 on port 5522
+S_23 is connected to MC_1 on port 5526
+MC_3 is connected to S_27 on port 5535
+MC_4 is connected to S_28 on port 5538
+S_33 is connected to S_29 on port 5541
+S_29 is connected to BS_1 on port 5544
+S_36 is connected to MC_2 on port 5550
+S_37 is connected to S_30 on port 5553
+S_38 is connected to S_31 on port 5556
+S_42 is connected to S_34 on port 5565
+S_48 is connected to S_41 on port 5578
+S_6 is connected to S_7 on port 5490
+S_13 is connected to S_14 on port 5505
+S_21 is connected to S_22 on port 5523
+MC_2 is connected to BS_1 on port 5545
