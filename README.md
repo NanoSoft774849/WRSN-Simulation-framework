@@ -12,3 +12,5 @@ $$ No description has been posted, yet in the near future, there will be a detai
 * The Application source code can be found in ServerApp->TestRand -> MainWindow.xaml.cs
 # Overview 
 
+To change the application configuration , go to TestRand.exe.config, use notepad or notepad++ to open the file and modify the basic settings.
+** To create new network you can use use clear button 
