@@ -14,3 +14,5 @@ $$ No description has been posted, yet in the near future, there will be a detai
 
 To change the application configuration , go to TestRand.exe.config, use notepad or notepad++ to open the file and modify the basic settings.
 ** To create new network you can use use clear button 
+
+![alt text](https://github.com/NanoSoft774849/WRSN-Simulation-framework/blob/master/ui_buttons.png?raw=true)
